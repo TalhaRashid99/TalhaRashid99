@@ -1,18 +1,13 @@
  <div align="center">
 
-<!-- HEADER BANNER -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,30:0C4A6E,65:0369A1,100:06B6D4&text=TALHA%20RASHID&fontSize=65&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&stroke=38BDF8&strokeWidth=1&desc=Turning%20Complex%20Ideas%20Into%20Powerful%20Digital%20Products&descSize=17&descAlignY=62&descColor=BAE6FD" width="100%" alt="Talha Rashid"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=850&height=55&lines=Architecting+Scalable+Software+Ecosystems;Building+Intelligent+Applications+with+.NET;Engineering+Modern+Web+%26+Cloud+Solutions;From+Complex+Problems+to+Clean+Solutions+%F0%9F%9A%80" alt="Animated developer tagline"/>
-
-</div>
-
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&height=50&lines=Building+Scalable+.NET+Applications;ASP.NET+Core+%7C+Blazor+%7C+React+%7C+MAUI;Clean+Architecture+%7C+REST+APIs+%7C+SQL+Server;Turning+Ideas+Into+Real+Solutions+%F0%9F%9A%80" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2500&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&height=65&lines=Hey%2C+I'm+Talha+Rashid+%F0%9F%91%8B;Welcome+to+My+GitHub+Profile+%E2%9C%A8" alt="Welcome to Talha's GitHub Profile"/>
 
 <br/>
+
+<!-- ENGINEERING IDENTITY -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2800&pause=1000&color=67E8F9&center=true&vCenter=true&width=850&height=45&lines=Engineering+Scalable+Digital+Solutions;Turning+Ideas+Into+Working+Software;Building+Modern+Web+%26+Mobile+Applications;Clean+Code+%E2%80%A2+Smart+Architecture+%E2%80%A2+Innovation" alt="Engineering introduction"/>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/.NET-Engineer-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Open_to-Remote_Opportunities-0A66C2?style=flat-square"/>
