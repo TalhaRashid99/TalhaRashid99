@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-<a href="https://talha-portfolio-nine-beige.vercel.app/" target="_blank">
+<a href="https://talharashid-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/HIRE_ME-LET'S_WORK_TOGETHER-0EA5E9?style=for-the-badge&logo=rocket&logoColor=white" alt="Hire Me"/>
 </a>
 
@@ -122,7 +122,7 @@ I'd love to connect, share ideas, and build something meaningful together.
 
 <br/>
 
-<a href="https://talha-portfolio-nine-beige.vercel.app/" target="_blank">
+<a href="https://talharashid-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/PORTFOLIO-VISIT_MY_WORK-0EA5E9?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio"/>
 </a>
 &nbsp;
